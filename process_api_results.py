@@ -1,16 +1,3 @@
-# projectGuid#
-# userId#
-# userFirstName#
-# userLastName#
-# channel#
-# platform#
-# landingPageThumbnailUrl#
-# previewTitle#
-# previewSubtitle
-# shareUrl#
-# makeMyOwnUrl#
-# editProjectUrl#
-
 import re
 from cassandra.cluster import Cluster
 from cassandra.auth import PlainTextAuthProvider

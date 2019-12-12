@@ -1,3 +1,3 @@
 # STFLY API calls sandbox
 
-Python, Apache Cassandra
+Python 3, Apache Cassandra, Regex
